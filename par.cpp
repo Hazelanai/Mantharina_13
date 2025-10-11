@@ -5,7 +5,7 @@ int main() {
     int numero;
 
     do {
-        cout << "Ingrese un número: ";
+        cout << "Ingrese un numero: ";
         cin >> numero;
 
         if (numero % 2 == 0) {
